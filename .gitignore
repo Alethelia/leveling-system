@@ -1,0 +1,4 @@
+node_modules/
+.env
+*.log
+reset_git_history.bat
